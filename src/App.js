@@ -13,7 +13,7 @@ const App = () => {
       <div className="logo-container">
         <img src={logo} alt="Logo" className="logo" />
       </div>
-      <p className="construction-text">Hola <b>Estefanía Arango Garcia</b></p>
+      <p className="construction-text">Hola <b>Estefanía Arango García</b></p>
       <p className="construction-text">Desde Alma esperamos que hoy estes muy bien</p>
       <p className="construction-text">A través de este sitio queremos ofrecer discupas por situaciones del pasado</p>
       <p className="construction-text">Por eso venimos acá con los ánimos de que no nos odies en secreto </p>
