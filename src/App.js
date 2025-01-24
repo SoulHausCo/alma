@@ -20,7 +20,7 @@ const App = () => {
       <p className="construction-text">Te queremos invitar a que pases una noche en el domo con Alma</p>
       <p className="construction-text">🏳️ esto son señales de paz 🏳️ </p>
 
-      <a href="https://api.whatsapp.com/send?phone=573134523232&text=Hola%20Denny%2C%20acepto%20tus%20disculpas%20" className="link">
+      <a href="https://api.whatsapp.com/send?phone=573134752239&text=Hola%20Denny%2C%20acepto%20tus%20disculpas%20" className="link">
           <img src={whatsappIcon} alt="Whatsapp" className="link-icon" /> Whatsapp
         </a>
     </div>
